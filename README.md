@@ -1,2 +1,2 @@
 # Video-Project
-Just Create one Dynamic Page using HTML, CSS and JavaScript
+Create a Dynamic Page with video animation using HTML, CSS and JavaScript
